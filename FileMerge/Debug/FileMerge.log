@@ -1,0 +1,4 @@
+﻿  FileMerge.cpp
+d:\hku\dev\oop\filemerge\filemerge\filemerge.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  FileMerge.vcxproj -> D:\HKU\DEV\OOP\FileMerge\Debug\FileMerge.exe
+  FileMerge.vcxproj -> D:\HKU\DEV\OOP\FileMerge\Debug\FileMerge.pdb (Full PDB)
